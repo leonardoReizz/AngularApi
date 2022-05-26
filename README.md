@@ -15,7 +15,7 @@ https://api-angular-dream-labs.vercel.app/
 
 > ![dreamlabs](https://user-images.githubusercontent.com/76044304/170516630-7d6d3493-5893-4283-b7e7-361ff89674f5.gif)
 
-### Responvidade
+### Responsividade
 
 ![responsiveDreamLabs](https://user-images.githubusercontent.com/76044304/170517392-591add3e-65ba-404e-8a6f-158ee445be50.gif)
 
