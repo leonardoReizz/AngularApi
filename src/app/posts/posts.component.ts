@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { PostsService } from '../posts.service';
+import { PostsService } from '../services/posts.service';
 import { MatDialog, MAT_DIALOG_DATA} from "@angular/material/dialog"
 import { ModalComponent } from './modal/modal.component';
 

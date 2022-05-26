@@ -9,7 +9,7 @@ import { PostsComponent } from './posts/posts.component';
 import { FormsModule }   from '@angular/forms';
 
 
-import { PostsService } from './posts.service';
+import { PostsService } from './services/posts.service';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ModalComponent } from './posts/modal/modal.component';
 import { MatDialogModule } from '@angular/material/dialog';
