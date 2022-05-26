@@ -1,3 +1,13 @@
+# Projeto Angular Consumindo API
+
+#### Foi Utilizado neste projeto:
+  Angular: <br/>
+    -HTTPClient <br/>
+    -ngx-pagination <br/>
+    -Form-Control <br/>
+
+Link da API: https://jsonplaceholder.typicode.com/posts
+
 # Dreamlabs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
