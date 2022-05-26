@@ -1,12 +1,15 @@
 # Projeto Angular Consumindo API
 
+## Você pode acessar a aplicação em: 
+https://api-angular-dream-labs.vercel.app/
+
+
 #### Foi Utilizado neste projeto:
   Angular: <br/>
     -HTTPClient <br/>
     -ngx-pagination <br/>
     -Form-Control <br/>
-
-Link da API: https://jsonplaceholder.typicode.com/posts
+    
 
 ### Aplicação
 
